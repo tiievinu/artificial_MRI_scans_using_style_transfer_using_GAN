@@ -6,3 +6,9 @@ Misdiagnosis or incorrect diagnosis in the medical field is a very serious issue
 One of the complicated tasks in medical imaging is to diagnose MRI (Magnetic Resonance Imaging) scans. Sometimes to interpret the scan, the radiologist needs different variations of the imaging techniques to drastically enhance the accuracy of diagnosis by providing practitioners with a more comprehensive understanding. But to have access to different imaging techniques is difficult & expensive. 
  
 With the help of deep learning, we can use style transfer to generate artificial MRI images of differing contrast levels from existing MRI scans. This will help provide a better diagnosis with the help of an additional image. 
+ 
+Different MRIs are required for different abnormalities. A single type of MRI may not be sufficient for the diagnosis of an abnormality. Additional MRIs might enhance the accuracy of diagnosis, leading to better treatment of the patient.
+ 
+Access to different imaging techniques is difficult and expensive. Moreover, doctors may advise getting one type of MRI to be done at a time, which makes it a time-consuming process. This capstone helps you address this problem with the help of an exciting tool in the deep learning domain, which is known as Generative Adversarial Networks or GANs.
+ 
+Generative Adversarial Networks (GANs) have been used for generating deepfakes, new fashion styles and high-resolution pictures from the low-resolution ones. Recently, Nvidia developed Gau-GAN, which can translate mere sketches into beautiful sceneries, which itself is a testament to the power of GANs.
