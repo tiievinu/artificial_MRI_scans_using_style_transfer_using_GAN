@@ -1,5 +1,5 @@
 # artificial_MRI_scans_using_style_transfer_using_GAN
-Capstone_Project, IIITB and UPGRAD, to translate the style of one MRI image to another.
+Capstone_Project, IIITB and UPGRAD, to build a Generative adversarial model(modified U-Net) which can generate artificial MRI images of different contrast levels from existing MRI scans.
 
 Misdiagnosis or incorrect diagnosis in the medical field is a very serious issue but unfortunately, it’s a common occurrence. Imaging procedures in the medical field require an expert radiologist’s opinion since interpreting them is not a simple binary process ( Normal or Abnormal). Even so, one radiologist may see something that another does not. This can lead to conflicting reports and make it difficult to effectively recommend the optimal treatment options to the patient.
  
